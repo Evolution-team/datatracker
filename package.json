@@ -3,7 +3,7 @@
     "browserlist": "latest",
     "cypress": "9.5.1",
     "cypress-real-events": "1.7.0",
-    "npm-check-updates": "12.5.2"
+    "npm-check-updates": "16.7.4"
   },
   "dependencies": {
     "caniuse-lite": "1.0.30001314"
